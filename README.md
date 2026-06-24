@@ -3,7 +3,7 @@ DecodeLabs Data Analytics Internship - Project 1
 📌 Project Overview
 This project addresses the Data Cleaning & Preparation track for DecodeLabs. The primary objective is to take a raw ecommerce transactions file and engineer a verifiable "source of truth" by correcting formatting errors, handling structural gaps, and validating rows using strict automated checks.
 
-🛠️ Tech Stack
+** Tech Stack**
 Language: Python 
 
 Core Package: Pandas
